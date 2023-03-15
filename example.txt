@@ -1,0 +1,54 @@
+#You can put these in input.txt or in console
+# and run the appropriate commands to see how the
+# program works.
+
+##Sample Input 1 for LJT
+5
+4
+E>D
+D>E
+C>AD
+AB>C
+2
+ABC
+CDE
+
+##Sample Input 2 for LJT
+5
+4
+E>D
+D>E
+C>AD
+AB>C
+2
+ABC
+CDE
+
+##Sample Input for #3NF
+7
+ABCDEFG
+3
+A>CDE
+B>FG
+AB>CDEFG
+
+##Sample Input 1 for BCNF
+6
+ABCDEF
+4
+A>BC
+CD>E
+B>D
+E>A
+
+##Sample Input 2 for BCNF
+6
+ABCDEF
+5
+A>BC
+CD>E
+B>D
+E>A
+A>F
+
+

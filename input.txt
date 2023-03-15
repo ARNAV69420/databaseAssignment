@@ -1,0 +1,8 @@
+6
+ABCDEF
+5
+A>BC
+CD>E
+B>D
+E>A
+A>F
